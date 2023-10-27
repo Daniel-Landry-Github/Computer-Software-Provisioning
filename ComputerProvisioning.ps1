@@ -49,7 +49,7 @@ $ProgramStatus += "SUMMARY:`n"
 
 # APPLICATION DOWNLOAD URL PATHS
     $teamsDownload = "https://go.microsoft.com/fwlink/?linkid=2187327&clcid=0x409&culture=en-us&country=us"
-    $nableDownload = "https://landrylabsstorageacct1.blob.core.windows.net/landrylabs-public-container/100WindowsAgentSetup_VALID_UNTIL_2023_10_26.exe"
+    $nableDownload = "https://landrylabsstorageacct1.blob.core.windows.net/landrylabs-public-container/Sparkhound_100WindowsAgentSetup_VALID_UNTIL_2023_11_23.exe"
     $nableExpiredDownload = "https://landrylabsstorageacct1.blob.core.windows.net/landrylabs-public-container/100WindowsAgentSetup_VALID_UNTIL_2023_07_07.exe"
     $citrixWorkspaceDownload = "https://landrylabsstorageacct1.blob.core.windows.net/landrylabs-public-container/CitrixWorkspaceApp.exe"
     $chromeDownload = "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B52346727-B563-9258-96E6-A3B500DF4C18%7D%26lang%3Den%26browser%3D5%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26brand%3DRXQR%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe"
